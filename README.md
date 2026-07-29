@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0367-valid-perfect-square) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Atharv135090/LeetCode_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Counting
 |  |
