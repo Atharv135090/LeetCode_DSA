@@ -10,6 +10,24 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
+        ListNode slow=head;
+        ListNode fast=head;
+
+        while(fast!=null && fast.next!=null)
+        {
+            slow=slow.next;
+            fast=fast.next.next;
+        }
+        return slow;
+    }
+}
+
+
+
+
+
+/*class Solution {
+    public ListNode middleNode(ListNode head) {
         int count=0;
         ListNode temp=head;
         ListNode next;
@@ -29,4 +47,4 @@ class Solution {
             
         }return temp;
     }
-}
+}*/
