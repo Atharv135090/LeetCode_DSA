@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0371-sum-of-two-integers) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0367-valid-perfect-square) |
 | [1004-max-consecutive-ones-iii](https://github.com/Atharv135090/LeetCode_DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0274-h-index) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
