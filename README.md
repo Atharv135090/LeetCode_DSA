@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0268-missing-number) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0392-is-subsequence](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
