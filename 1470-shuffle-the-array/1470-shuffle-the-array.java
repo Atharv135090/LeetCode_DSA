@@ -1,0 +1,14 @@
+class Solution {
+    public int[] shuffle(int[] nums, int n) {
+        int[] ans=new int[nums.length];
+        int j=n;
+        int i=0;
+        for(int k=0;k<ans.length-1;k+=2)
+        {
+            ans[k]=nums[i];
+            ans[k+1]=nums[j];
+            i++;
+            j++;
+        }return ans;
+    }
+}
