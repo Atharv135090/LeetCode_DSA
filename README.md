@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0274-h-index) |
 | [0643-maximum-average-subarray-i](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0877-stone-game](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Atharv135090/LeetCode_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Atharv135090/LeetCode_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1470-shuffle-the-array](https://github.com/Atharv135090/LeetCode_DSA/tree/master/1470-shuffle-the-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0371-sum-of-two-integers) |
+| [0877-stone-game](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0877-stone-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -158,4 +161,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0069-sqrtx) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
