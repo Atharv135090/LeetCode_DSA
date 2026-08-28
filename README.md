@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0877-stone-game) |
+| [1323-maximum-69-number](https://github.com/Atharv135090/LeetCode_DSA/tree/master/1323-maximum-69-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -173,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0877-stone-game) |
+## Greedy
+|  |
+| ------- |
+| [1323-maximum-69-number](https://github.com/Atharv135090/LeetCode_DSA/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->
