@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Atharv135090/LeetCode_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Atharv135090/LeetCode_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1470-shuffle-the-array](https://github.com/Atharv135090/LeetCode_DSA/tree/master/1470-shuffle-the-array) |
+| [1929-concatenation-of-array](https://github.com/Atharv135090/LeetCode_DSA/tree/master/1929-concatenation-of-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Atharv135090/LeetCode_DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Atharv135090/LeetCode_DSA/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -178,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/Atharv135090/LeetCode_DSA/tree/master/1323-maximum-69-number) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Atharv135090/LeetCode_DSA/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
