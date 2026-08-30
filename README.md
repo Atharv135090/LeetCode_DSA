@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0274-h-index) |
 | [0643-maximum-average-subarray-i](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/Atharv135090/LeetCode_DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
 |  |
