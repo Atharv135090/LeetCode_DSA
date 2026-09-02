@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0877-stone-game) |
 | [1323-maximum-69-number](https://github.com/Atharv135090/LeetCode_DSA/tree/master/1323-maximum-69-number) |
 ## Bit Manipulation
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0917-reverse-only-letters) |
 ## Queue
@@ -185,5 +187,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Atharv135090/LeetCode_DSA/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/Atharv135090/LeetCode_DSA/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
